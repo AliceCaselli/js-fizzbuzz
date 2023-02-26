@@ -39,5 +39,7 @@ for (let i = 1; i <= 100; i++) {
 
     }
 
+    numberEl.style.fontSize = "20px";
+
 }
 
